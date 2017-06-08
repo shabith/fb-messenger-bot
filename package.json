@@ -1,0 +1,16 @@
+{
+  "name": "fb-messenger-bot",
+  "version": "1.0.0",
+  "description": "Fb messenger bot testing",
+  "main": "index.js",
+  "author": "Shabith Ishan <shabith.ishan@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabith/fb-messenger-bot.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
